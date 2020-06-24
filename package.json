@@ -14,11 +14,25 @@
   },
   "author": "Ricardo Huamani <ricardohuamanip@gmail.com> (https://drihu.com)",
   "license": "MIT",
-  "keywords": ["codeable"],
+  "keywords": [
+    "codeable"
+  ],
   "devDependencies": {
     "eslint": "^7.3.1",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.21.2",
     "microbundle": "^0.12.2"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drihu/paku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drihu/paku/issues"
+  },
+  "homepage": "https://github.com/drihu/paku#readme"
 }
