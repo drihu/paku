@@ -1,5 +1,5 @@
 {
-  "name": "paku",
+  "name": "@drihu/paku",
   "version": "0.1.0",
   "description": "A small library to create HTML cards",
   "source": "src/paku.js",
@@ -12,8 +12,9 @@
     "eslint:init": "eslint --init",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ricardo Huamani <ricardohuamanip@gmail.com>",
+  "author": "Ricardo Huamani <ricardohuamanip@gmail.com> (https://drihu.com)",
   "license": "MIT",
+  "keywords": ["codeable"],
   "devDependencies": {
     "eslint": "^7.3.1",
     "eslint-config-airbnb-base": "^14.2.0",
