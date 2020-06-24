@@ -1,0 +1,23 @@
+{
+  "name": "paku",
+  "version": "0.1.0",
+  "description": "A small library to create HTML cards",
+  "source": "src/paku.js",
+  "main": "dist/paku.js",
+  "module": "dist/paku.module.js",
+  "unpkg": "dist/paku.umd.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch",
+    "eslint:init": "eslint --init",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Huamani <ricardohuamanip@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "microbundle": "^0.12.2"
+  }
+}
